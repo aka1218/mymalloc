@@ -57,15 +57,15 @@ Overall Performance:<br>
 The following is the performance values for each of the given tests along with the two tests that we<br>
 created
 *the following performance values are all in microseconds and were ran on iLab machines<br>
-Test1<b
+Test1 <br>
 9 microseconds <br>
-Test2
+Test2 <br>
 1215 microseconds<br>
-Test3
+Test3 <br>
 361 microseconds<br>
-Test4
+Test4 <br>
 3 microseconds<br>
-Test5
+Test5 <br>
 2 microseconds<br>
 
 
